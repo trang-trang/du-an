@@ -1,0 +1,5 @@
+ div#slide{
+         display: inline-block;// giúp div co giản theo nội dung nó chứa
+             padding: 10px;
+                border: 1px solid blue;
+            }
